@@ -1,14 +1,13 @@
-group = "app.template"
+group = "app.rynin"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "Rynin Patches"
+        description = "Universal and customized patches for Android apps"
+        source = "git@github.com:hexxedspider/patches.git"
+        author = "hexxedspider"
+        contact = "https://github.com/hexxedspider"
+        website = "https://github.com/hexxedspider/patches"
         license = "GPLv3"
     }
 }

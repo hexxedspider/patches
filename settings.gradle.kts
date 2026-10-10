@@ -1,4 +1,4 @@
-rootProject.name = "morphe-patches-template"
+rootProject.name = "rynin-patches"
 
 pluginManagement {
     repositories {
